@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+._*
+__MACOSX/
+.ipynb_checkpoints/
+*.egg-info/
